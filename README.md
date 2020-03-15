@@ -1,1 +1,5 @@
 # The-IRONMAN
+
+As a kid I always wanted to have a special ability, like moving objects with thoughts or flying. I tried to move objects with “the power of my mind” of course with no success. Well, yes, I was and I am a huge IRONMAN fan, but I also like electronics and programming, so why not combine these two things to build an incredible project?
+
+The main concept is that using different brainwaves the user will be able to control a robot, the cursor on his PC or turn on/off lights in his home, while a microcontroller (Particle Photon) creates an online analyzing about the user’s brainwaves. This is a perfect method to detect diseases or stress and sleepy statement. This also can be used to help people live better their life, learn to control their emotions and how to be always happy. The human brain needs balance, to be healthly, we should sleep, think, move... Using the Particle Photon and the webserver created by the founders of the Particle we can help people to find their natural brain-balance.
